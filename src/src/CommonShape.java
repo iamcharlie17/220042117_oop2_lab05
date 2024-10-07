@@ -7,7 +7,6 @@ public abstract class CommonShape implements Shape {
         this.y = y;
     }
 
-
     @Override
     public int getX() {
         return x;

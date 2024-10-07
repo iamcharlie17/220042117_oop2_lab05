@@ -9,4 +9,4 @@
 </hr>
 <h1>Clone Process:</h1>
 <h2>Step 1: Open terminal/cmd, go to desire path</h2>
-<h2>Step 2: Paste command: git clone https://github.com/iamcharlie17/220042117_oop2_lab05</h2>
+<h2>Step 2: Paste command: git clone <span>https://github.com/iamcharlie17/220042117_oop2_lab05</span></h2>
